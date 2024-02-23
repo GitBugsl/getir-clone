@@ -11,7 +11,7 @@
 
   <p align="center">
     I completed this project to improve my skills! <br />
-    <a href="getircloneethemdev.netlify.app/">Demo Site</a>
+    <a href="https://getircloneethemdev.netlify.app/">Demo Site</a>
     <br />
   </p>
 </div>
